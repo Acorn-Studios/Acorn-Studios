@@ -1,7 +1,7 @@
 
-`🌱` Learning ML and Nim
-`🚧` Building Games and Apps
-`😎` Follow Me
+`🌱` Learning ML and Nim <br>
+`🚧` Building Games and Apps <br>
+`😎` Follow Me <br>
 
 <!--
 **Acorn-Studios/Acorn-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
