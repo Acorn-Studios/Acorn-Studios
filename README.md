@@ -1,6 +1,8 @@
 
 `🌱` Learning ML and Nim <be> <br>
-`🚧` Building Games and Apps <br> <br>
+
+`🚧` Building Games and Apps <br> <be>
+
 `😎` Follow Me <br> <br>
 
 <!--
